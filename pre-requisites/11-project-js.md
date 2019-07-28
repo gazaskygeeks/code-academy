@@ -8,6 +8,7 @@ If you get totally stuck drop by the gitter chatroom.. someone will be there to 
 ### Assignment
 
 <div class="lesson-content__panel" markdown="1">
+
 1. Start off by making the files on your computer and opening them in your browser.
 2. Create a webpage with a 16x16 grid of square divs
    1. Create the divs using JavaScript... don't try making them by hand with copy and pasting in your html file!
@@ -35,4 +36,5 @@ If you get totally stuck drop by the gitter chatroom.. someone will be there to 
 5. \(Optional\): Instead of just changing the color of your grid from black to white \(for example\) have each pass through it with the mouse change to a completely random RGB value.   Then try having each pass just add another 10% of black to it so that only after 10 passes is the square completely black.
 6. Follow [these steps](https://help.github.com/en/articles/create-a-repo) to create a repo on GitHub.
 7. On GitHub, make new empty files and copy and paste your code into them, making sure you save them by clicking the `commit changes` button.
+
 </div>
