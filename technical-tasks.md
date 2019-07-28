@@ -2,7 +2,7 @@
 
 In order to be considered for an interview, you must complete the following assignments. The coding section is by far the longest section, and will take some time to complete.
 
-**You should not expect to complete this in one sitting!** You should work at it consistently for a few hours a day, and you should be able to complete it in 3-4 weeks.
+**You should not expect to complete this in one sitting!** You should work at it consistently for a few hours a day, and you should be able to complete within 8 weeks.
 
 ## Coding:
 
@@ -16,15 +16,15 @@ It **will take some time**, we suggest doing each lesson over a couple of sittin
 
 1. [Introduction](pre-requisites/01-introduction.md)
 2. [HTML & CSS](pre-requisites/02-html-css.md)
-3. [Developer Tools pt 1]()
-4. [HTML Project]()
-5. [Javascript 1]()
-6. [Javascript 2]()
-7. [Developer Tools pt 2]()
-8. [Javascript 3]()
-9. [DOM Manipulation]()
-10. [Clean Code]()
-11. [Javascript Project]()
+3. [Developer Tools pt 1](pre-requisites/03-dev-tools.md)
+4. [HTML Project](pre-requisites/04-project.md)
+5. [Javascript 1](pre-requisites/05-javascript-1.md)
+6. [Javascript 2](pre-requisites/06-javascript-2.md)
+7. [Developer Tools pt 2](pre-requisites/07-dev-tools-2.md)
+8. [Javascript 3](pre-requisites/08-javascript-3.md)
+9. [DOM Manipulation](pre-requisites/09-dom-manipulation.md)
+10. [Clean Code](pre-requisites/10-clean-code.md)
+11. [Javascript Project](pre-requisites/11-project-js.md)
 
 - After finishing the above lessons, as well as having a very good understanding of the basic technologies about web development, you should also have:
   - [x] HTML & CSS Project
