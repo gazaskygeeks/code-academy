@@ -6,26 +6,46 @@ In order to be considered for an interview, you must complete the following assi
 
 ## Coding:
 
-- Complete the [Front End Web Development](https://www.theodinproject.com/courses/web-development-101#the-front-end) section of Odin Project
-  - For the project, you should follow these steps to put it onto your github. 
-  **Do not follow Odin's: _Setting Up Your Project’s Github Repository (optional)_ instructions**.
-    1. Follow [these steps](https://help.github.com/en/articles/create-a-repo) to create a new repository.
-    2. Do the [assignment](https://www.theodinproject.com/courses/web-development-101/lessons/html-css#assignment) creating the files on Github.
-    3. You can ignore the "Viewing your project on the web" section.
-- Complete the first 4 sections of the [Javascript course](https://www.theodinproject.com/courses/web-development-101#javascript-basics), and do the "Rock, Paper, Scissors" project.
-  - For the project, put it on your github.
-- Get a minimum of 250 points on Free Code Camp making sure you complete these sections (note, you will have done some of this as part of the Odin Project courses): 
-  - Responsive Web Design Certification:
-    - Basic HTML and HTML5
-    - Basic CSS
-    - Responsive Web Design Principles
-    - CSS Flexbox
-  - Javascript Algorithms And Data Structures Certification:
-    - Basic JavaScript
-    - ES6
-    - Basic Data Structures
-    - Basic Algorithm Scripting
-- Reach 5 Kyu on CodeWars
+Complete the following lessons, which should serve as an introduction to Front End Web Development. You should make sure you read and understand the concepts, and not just complete the challenges.
+
+In the interview you will be asked questions to check your understanding and prove your commitment to self learning.
+
+Before you get started, you follow [these instructions to install a text editor on your computer](). Once installed, go through these lessons, 1 by 1. 
+
+It **will take some time**, we suggest doing each lesson over a couple of sittings! If you ever get stuck, you should ask for help on the gitter channel, or come into one of our campuses in person.
+
+1. [Introduction](pre-requisites/01-introduction.md)
+2. [HTML & CSS](pre-requisites/02-html-css.md)
+3. [Developer Tools pt 1]()
+4. [HTML Project]()
+5. [Javascript 1]()
+6. [Javascript 2]()
+7. [Developer Tools pt 2]()
+8. [Javascript 3]()
+9. [DOM Manipulation]()
+10. [Clean Code]()
+11. [Javascript Project]()
+
+- After finishing the above lessons, as well as having a very good understanding of the basic technologies about web development, you should also have:
+  - [x] HTML & CSS Project
+  - [x] A Javascript "Etch-a-sketch" project
+  - [x] You should have begun a Free Code Camp Journey, and completed:
+    - Responsive Web Design Certification:
+      - [x] Basic HTML and HTML5
+      - [x] Basic CSS
+      - [x] Responsive Web Design Principles
+      - [x] CSS Flexbox
+    - Javascript Algorithms And Data Structures Certification:
+      - [x] Basic JavaScript
+
+These will be required in order to get proceed to the technical test. Additionally, you need to:
+
+- [x] Make sure you have at least 200 points on Free Code Camp (you should be over or most of the way there if you have done the exercises in the lessons.
+
+- [x] Reach 6 kyu on Codewars.
+
+If you get invited to a technical test, your understanding of the concepts learnt will be tested so it is not in your benefit to copy and paste in order to acheive these goals. **To pass the technical test you will need a solid understanding of the concepts learnt throughout the lessons.**
+
 
 ## Typing:
 
