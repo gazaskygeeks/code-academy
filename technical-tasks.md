@@ -10,7 +10,7 @@ Complete the following lessons, which should serve as an introduction to Front E
 
 In the interview you will be asked questions to check your understanding and prove your commitment to self learning.
 
-Before you get started, you follow [these instructions to install a text editor on your computer](). Once installed, go through these lessons, 1 by 1. 
+Before you get started, you should follow [these instructions to install a text editor on your computer](). Once installed, go through these lessons, 1 by 1. 
 
 It **will take some time**, we suggest doing each lesson over a couple of sittings! If you ever get stuck, you should ask for help on the gitter channel, or come into one of our campuses in person.
 
