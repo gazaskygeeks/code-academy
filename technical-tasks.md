@@ -1,4 +1,4 @@
-# GSG Code Academy Selection Process Technical Tasks
+# GSG Code Academy Application Process: Technical Tasks
 
 In order to be considered for the in person technical interview, **you must complete the following Coding, Typing, and English tasks**. We will consider the completion and quality of ALL of these tasks when we make decisions on who to invite for the in-person interview. 
 
