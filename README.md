@@ -1,4 +1,5 @@
 # GSG Code Academy
+[![Gitter](https://badges.gitter.im/gazaskygeeks/code_academy_applicants.svg)](https://gitter.im/gazaskygeeks/code_academy_applicants?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Admin hub for the code academy, specifically a place to put public application steps which can be easily changed.
 
