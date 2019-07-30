@@ -1,6 +1,6 @@
 # GSG Code Academy Selection Process Technical Tasks
 
-In order to be considered for an interview, you must complete the following assignments. The coding section is by far the longest section, and will take some time to complete.
+In order to be considered for an interview, **you must complete the following assignments**. The coding section is by far the longest section, and will take some time to complete.
 
 **You should not expect to complete this in one sitting!** You should work at it consistently for a few hours a day, and you should be able to complete within 8 weeks.
 
@@ -8,7 +8,7 @@ In order to be considered for an interview, you must complete the following assi
 
 Complete the following lessons, which should serve as an introduction to Front End Web Development. You should make sure you read and understand the concepts, and not just complete the challenges.
 
-In the interview you will be asked questions to check your understanding and prove your commitment to self learning.
+**In the interview you will be asked questions to check your understanding in these topics.**
 
 Before you get started, you should follow [these instructions to install a text editor on your computer](). Once installed, go through these lessons, 1 by 1. 
 
