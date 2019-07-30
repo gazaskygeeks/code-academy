@@ -1,4 +1,4 @@
-# Application requirements
+# GSG Code Academy Selection Process Technical Tasks
 
 In order to be considered for an interview, you must complete the following assignments. The coding section is by far the longest section, and will take some time to complete.
 
