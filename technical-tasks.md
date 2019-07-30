@@ -34,10 +34,8 @@ In the in-person technical interview you will be asked questions to check your k
 
 
 We will make decisions on who to invite for the technical interview, based on satisfactory completion of the tasks and projects from steps 0-12. By completing all of the technical tasks, you will have achieved: 
-  - [x] HTML & CSS Project
-  - [x] A Javascript "Etch-a-sketch" project
-
-- [x] Make sure you have at least 200 points on Free Code Camp (you should be over or most of the way there if you have done the exercises in the lessons).
+- [x] HTML & CSS Project
+- [x] A Javascript "Etch-a-sketch" project
 - [x] 200 points on FreeCodeCamp
 - [x] Level 5 kyu on CodeWars.
 
