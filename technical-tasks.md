@@ -1,19 +1,24 @@
 # GSG Code Academy Selection Process Technical Tasks
 
-In order to be considered for an interview, **you must complete the following assignments**. The coding section is by far the longest section, and will take some time to complete.
+In order to be considered for the in person technical interview, **you must complete the following Coding, Typing, and English tasks**. We will consider the completion and quality of ALL of these tasks when we make decisions on who to invite for the in-person interview. 
 
-**You should not expect to complete this in one sitting!** You should work at it consistently for a few hours a day, and you should be able to complete within 8 weeks.
+The coding section is by far the longest section and will require the most time to complete. 
+
+**It will take time to complete these lessons.** We suggest having a consistent schedule over a few weeks to complete these lessons. If you ever get stuck or feel overwhelmed, ask for help on the [Gitter channel](https://gitter.im/gazaskygeeks/code_academy_applicants#), or drop by one of our campuses in person. We are very happy to help.
 
 ## Coding:
 
-Complete the following lessons, which should serve as an introduction to Front End Web Development. You should make sure you read and understand the concepts, and not just complete the challenges.
+Complete the following lessons, which are an introduction to Front End Web Development. **You should make sure you take the time to read and fully understand the concepts, and not just rush through to complete the challenges**.
 
-**In the interview you will be asked questions to check your understanding in these topics.**
+The lessons have been carefully curated from amazing, open-source teaching resources. We have intentionally organized the orders of the steps in a way to structure your learning. We highly recommend that you follow the steps in the order they are listed.
 
-Before you get started, you should follow [these instructions to install a text editor on your computer](). Once installed, go through these lessons, 1 by 1. 
 
-It **will take some time**, we suggest doing each lesson over a couple of sittings! If you ever get stuck, you should ask for help on the gitter channel, or come into one of our campuses in person.
+In the in-person technical interview you will be asked questions to check your knowledge and skills in these topics. **You will be tested on your general understanding of concepts, specific coding questions, and your understanding of your project code.** The best way to prepare for the in-person technical interview is by **completing these lessons thoroughly and honestly (i.e. no copying and pasting from Google!)**
+ 
 
+**Let's get started!:**
+
+0. [Installing a text editor](pre-requisites/00-installations.md)
 1. [Introduction](pre-requisites/01-introduction.md)
 2. [HTML & CSS](pre-requisites/02-html-css.md)
 3. [Developer Tools pt 1](pre-requisites/03-dev-tools.md)
@@ -25,46 +30,35 @@ It **will take some time**, we suggest doing each lesson over a couple of sittin
 9. [DOM Manipulation](pre-requisites/09-dom-manipulation.md)
 10. [Clean Code](pre-requisites/10-clean-code.md)
 11. [Javascript Project](pre-requisites/11-project-js.md)
+12. After completing the lessons, you should solidify your learning by [reaching 5kyu on CodeWars](www.codewars.com).
 
-- After finishing the above lessons, as well as having a very good understanding of the basic technologies about web development, you should also have:
+
+We will make decisions on who to invite for the technical interview, based on satisfactory completion of the tasks and projects from steps 0-12. By completing all of the technical tasks, you will have achieved: 
   - [x] HTML & CSS Project
   - [x] A Javascript "Etch-a-sketch" project
-  - [x] You should have begun a Free Code Camp Journey, and completed:
-    - Responsive Web Design Certification:
-      - [x] Basic HTML and HTML5
-      - [x] Basic CSS
-      - [x] Responsive Web Design Principles
-      - [x] CSS Flexbox
-    - Javascript Algorithms And Data Structures Certification:
-      - [x] Basic JavaScript
 
-These will be required in order to get proceed to the technical test. Additionally, you need to:
+- [x] Make sure you have at least 200 points on Free Code Camp (you should be over or most of the way there if you have done the exercises in the lessons).
+- [x] 200 points on FreeCodeCamp
+- [x] Level 5 kyu on CodeWars.
 
-- [x] Make sure you have at least 200 points on Free Code Camp (you should be over or most of the way there if you have done the exercises in the lessons.
-
-- [x] Reach 6 kyu on Codewars.
-
-If you get invited to a technical test, your understanding of the concepts learnt will be tested so it is not in your benefit to copy and paste in order to acheive these goals. **To pass the technical test you will need a solid understanding of the concepts learnt throughout the lessons.**
+If you get invited to a technical interview, your understanding of the concepts learnt will be tested so it is not in your benefit to copy and paste in order to acheive these goals. **To pass the technical interview you will need a solid understanding of the concepts learnt throughout the lessons.**
 
 
 ## Typing:
-
-Join this classroom on TypingClub, using **the same email address you used in you GSG Code Academy application**. If you do not use the same email address we will not know your score
-
-[Classroom link here](https://gsg-code-academy.typingclub.com/signup/GMUR84A)
-
-Over the period of your application, you must **complete at least the first 50 lessons in Typing Club**. 
-Each lesson should take less than 10 minutes to complete. 
 Typing is very important skill in life and especially in coding. If you are a good typist you will find learning to code much, much easier.
-If you are not good at typing in english, we strongly suggest you improve during your application. The best way to improve is to do a little bit, every day (its ok to miss a few days though!). Consistency is key.
 
-## English
+Join the GSG classroom on TypingClub, using **the same email address you used in you GSG Code Academy application**. If you do not use the same email address we will not know your score.
 
-Complete these Cambrdige English level exams:
+**[Click here to join the classroom.](https://gsg-code-academy.typingclub.com/signup/GMUR84A)**
+
+By the application deadline, you must **complete at least the first 50 lessons in Typing Club**.
+
+Each lesson should take less than 10 minutes to complete. The best way to improve your typing is to do a small amount, practising every day, rather than doing all of the lessons at once.
+
+## English:
+
+Complete this _Cambridge English Level_ exam. It should take less than half an hour.
 
 1. http://www.cambridgeenglish.org/test-your-english/general-english/
-2. http://www.cambridgeenglish.org/test-your-english/for-schools/
 
-Upon completion, screenshot your results. Upload the images using this [form](link to airtable).
-
-
+Upon completion, screenshot your result. Upload the image using this [form](link to airtable).
