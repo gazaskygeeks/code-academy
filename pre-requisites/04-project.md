@@ -25,22 +25,23 @@ These skills will be helpful for you when you start building. Either try them yo
 
 (the simple one with just a search box).
 
-Follow [these steps](https://help.github.com/en/articles/create-a-repo) to create a repo on GitHub.
+1. Start off by making the files on your computer and opening them in your browser.
 
-Inside your project folder, create your index.html file
-
-1. Tips:
+2. Tips:
    - DON'T BE A PERFECTIONIST! You're just trying to make it _look_ like google.com, not actually function like it and it doesn't have to be spaced exactly the same way to the pixel. Any dropdown menus or form submissions or hover-highlighting should be ignored.
    - USE GOOGLE! You'll probably run into roadblocks where you can't figure out how to do something so do what all good devs do... Google it!
    - If you're frustrated with trying to get buttons or inputs to style the way you want (for instance, they seem to just not respond to any styles), look into the css property `-webkit-appearance: none;` or `-moz-appearance` if you're using Firefox.
-2. Start with just putting the main elements on the page (the logo image and search form), then get them placed horizontally. You can either download the Google logo or link directly to its URL on the web in your `<img>` tag.
-3. Next do the navbar across the top, first building the content and then trying to position it. Check out [how to build a horizontal CSS navbar](http://www.w3schools.com/css/css_navbar.asp) if you're lost.
-4. Finally, put in the footer, which should be very similar to the top navbar.
-5. In general, do as much on your own as you can before relying on the developer tools (or viewing the page's source code) to help you along.
+3. Start with just putting the main elements on the page (the logo image and search form), then get them placed horizontally. You can either download the Google logo or link directly to its URL on the web in your `<img>` tag.
+4. Next do the navbar across the top, first building the content and then trying to position it. Check out [how to build a horizontal CSS navbar](http://www.w3schools.com/css/css_navbar.asp) if you're lost.
+5. Finally, put in the footer, which should be very similar to the top navbar.
+6. In general, do as much on your own as you can before relying on the developer tools (or viewing the page's source code) to help you along.
+
+7. Once you have made your site, follow [these steps](https://help.github.com/en/articles/create-a-repo) to create a repo on GitHub.
+8. On GitHub, upload your files by clicking the `upload files` button and selecting the html and css files you have been editing.
 
 ### Viewing your project on the web - optional!
 
-If you want to show your work (the project) to others, or submit a solution below, you will need to publish your site so that others can access it from the web, rather than just on your local machine. The good news is that if you have your project on GitHub (as described above) doing this is incredibly simple.
+If you want to show your work (the project) to others, you will need to publish your site so that others can access it from the web, rather than just on your local machine. The good news is that if you have your project on GitHub (as described above) doing this is incredibly simple.
 
 Github allows you to publish web projects directly from a GitHub repository. Doing this will allow you to access your project from `your-gh-username.github.io/your-github-repo-name`
 
