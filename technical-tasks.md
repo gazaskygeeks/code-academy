@@ -1,6 +1,6 @@
 # GSG Code Academy Application Process: Technical Tasks
 
-In order to be considered for the in person technical interview, **you must complete the following Coding, Typing, and English tasks**. We will consider the completion and quality of ALL of these tasks when we make decisions on who to invite for the in-person interview. 
+In order to be considered for the in person technical interview, **you must complete the following Coding and Typing tasks**. We will consider the completion and quality of ALL of these tasks when we make decisions on who to invite for the in-person interview. 
 
 The coding section is by far the longest section and will require the most time to complete. 
 
@@ -30,13 +30,13 @@ In the in-person technical interview you will be asked questions to check your k
 9. [DOM Manipulation](pre-requisites/09-dom-manipulation.md)
 10. [Clean Code](pre-requisites/10-clean-code.md)
 11. [Javascript Project](pre-requisites/11-project-js.md)
-12. After completing the lessons, you should solidify your learning by [reaching 5kyu on CodeWars](www.codewars.com).
+12. After completing the lessons, you should solidify your learning by [reaching 5kyu on CodeWars](www.codewars.com), and making sure you continue your FreeCodeCamp learning until you get 200 points (after doing the sections mentioned lessons 1-11).
 
 
 We will make decisions on who to invite for the technical interview, based on satisfactory completion of the tasks and projects from steps 0-12. By completing all of the technical tasks, you will have achieved: 
 - [x] HTML & CSS Project
 - [x] A Javascript "Etch-a-sketch" project
-- [x] 200 points on FreeCodeCamp
+- [x] 200 points on FreeCodeCamp (the exact topics you need to cover are stated within lessons 1-12)
 - [x] Level 5 kyu on CodeWars.
 
 If you get invited to a technical interview, your understanding of the concepts learnt will be tested so it is not in your benefit to copy and paste in order to acheive these goals. **To pass the technical interview you will need a solid understanding of the concepts learnt throughout the lessons.**
@@ -52,11 +52,3 @@ Join the GSG classroom on TypingClub, using **the same email address you used in
 By the application deadline, you must **complete at least the first 50 lessons in Typing Club**.
 
 Each lesson should take less than 10 minutes to complete. The best way to improve your typing is to do a small amount, practising every day, rather than doing all of the lessons at once.
-
-## English:
-
-Complete this _Cambridge English Level_ exam. It should take less than half an hour.
-
-1. http://www.cambridgeenglish.org/test-your-english/general-english/
-
-Upon completion, screenshot your result. Upload the image using this [form](link to airtable).
