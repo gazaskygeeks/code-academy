@@ -10,7 +10,9 @@ The coding section is by far the longest section and will require the most time 
 
 Complete the following lessons, which are an introduction to Front End Web Development. **You should make sure you take the time to read and fully understand the concepts, and not just rush through to complete the challenges**.
 
-The lessons have been carefully curated from amazing, open-source teaching resources. We have intentionally organized the orders of the steps in a way to structure your learning. We highly recommend that you follow the steps in the order they are listed.
+The lessons have been carefully curated from amazing, open-source teaching resources - most notably [Odin Project](https://www.theodinproject.com/). 
+
+We have intentionally organized the orders of the steps in a way to structure your learning. We highly recommend that you follow the steps in the order they are listed.
 
 
 In the in-person technical interview you will be asked questions to check your knowledge and skills in these topics. **You will be tested on your general understanding of concepts, specific coding questions, and your understanding of your project code.** The best way to prepare for the in-person technical interview is by **completing these lessons thoroughly and honestly (i.e. no copying and pasting from Google!)**
