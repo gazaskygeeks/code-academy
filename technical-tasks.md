@@ -32,7 +32,7 @@ In the in-person technical interview you will be asked questions to check your k
 9. [DOM Manipulation](pre-requisites/09-dom-manipulation.md)
 10. [Clean Code](pre-requisites/10-clean-code.md)
 11. [Javascript Project](pre-requisites/11-project-js.md)
-12. After completing the lessons, you should solidify your learning by [reaching 5kyu in JavaScript on CodeWars](www.codewars.com), and making sure you continue your FreeCodeCamp learning until you get 200 points (after doing the sections mentioned lessons 1-11).
+12. After completing the lessons, you should solidify your learning by [reaching 5kyu in JavaScript on CodeWars](https://www.codewars.com), and making sure you continue your FreeCodeCamp learning until you get 200 points (after doing the sections mentioned lessons 1-11).
 
 
 We will make decisions on who to invite for the technical interview, based on satisfactory completion of the tasks and projects from steps 0-12. By completing all of the technical tasks, you will have achieved: 
