@@ -6,6 +6,19 @@ The coding section is by far the longest section and will require the most time 
 
 **It will take time to complete these lessons.** We suggest having a consistent schedule over a few weeks to complete these lessons. If you ever get stuck or feel overwhelmed, ask for help on the [Gitter channel](https://gitter.im/gazaskygeeks/code_academy_applicants#), or drop by one of our campuses in person. We are very happy to help.
 
+
+## Typing:
+Typing is very important skill in life and especially in coding. If you are a good typist you will find learning to code much, much easier.
+
+Join the GSG classroom on TypingClub, using **the same email address you used in you GSG Code Academy application**. If you do not use the same email address we will not know your score.
+
+**[Click here to join the classroom.](https://gsg-code-academy.typingclub.com/signup/GMUR84A)**
+
+By the application deadline, you must **complete at least the first 50 lessons in Typing Club**.
+
+Each lesson should take less than 10 minutes to complete. The best way to improve your typing is to do a small amount, practising every day, rather than doing all of the lessons at once.
+
+
 ## Coding:
 
 Complete the following lessons, which are an introduction to Front End Web Development. **You should make sure you take the time to read and fully understand the concepts, and not just rush through to complete the challenges**.
@@ -42,15 +55,3 @@ We will make decisions on who to invite for the technical interview, based on sa
 - [x] Level 5 kyu on CodeWars in JavaScript.
 
 If you get invited to a technical interview, your understanding of the concepts learnt will be tested so it is not in your benefit to copy and paste in order to acheive these goals. **To pass the technical interview you will need a solid understanding of the concepts learnt throughout the lessons.**
-
-
-## Typing:
-Typing is very important skill in life and especially in coding. If you are a good typist you will find learning to code much, much easier.
-
-Join the GSG classroom on TypingClub, using **the same email address you used in you GSG Code Academy application**. If you do not use the same email address we will not know your score.
-
-**[Click here to join the classroom.](https://gsg-code-academy.typingclub.com/signup/GMUR84A)**
-
-By the application deadline, you must **complete at least the first 50 lessons in Typing Club**.
-
-Each lesson should take less than 10 minutes to complete. The best way to improve your typing is to do a small amount, practising every day, rather than doing all of the lessons at once.
