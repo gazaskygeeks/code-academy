@@ -47,11 +47,17 @@ In the in-person technical interview you will be asked questions to check your k
 11. [Javascript Project](pre-requisites/11-project-js.md)
 12. After completing the lessons, you should solidify your learning by [reaching 5kyu in JavaScript on CodeWars](https://www.codewars.com), and making sure you continue your FreeCodeCamp learning until you get 200 points (after doing the sections mentioned lessons 1-11).
 
-
+### Summary of most important tasks:
 We will make decisions on who to invite for the technical interview, based on satisfactory completion of the tasks and projects from steps 0-12. By completing all of the technical tasks, you will have achieved: 
-- [x] HTML & CSS Project
-- [x] A Javascript "Etch-a-sketch" project
+- [x] [HTML & CSS Project](pre-requisites/04-project.md)
+- [x] [A Javascript "Etch-a-sketch" project](pre-requisites/11-project-js.md)
 - [x] 200 points on FreeCodeCamp (the exact topics you need to cover are stated within lessons 1-12)
-- [x] Level 5 kyu on CodeWars in JavaScript.
+ -  HTML and CSS
+    - [Basic HTML and HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/)
+    - [Basic CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css/)
+    - [Responsive Web Design Principles](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/)
+    - [CSS Flexbox](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/)
+   - [Free Code Camp Javascript Basics](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/)
+- [x] Level 5 kyu on [CodeWars](https://www.codewars.com) in JavaScript.
 
 If you get invited to a technical interview, your understanding of the concepts learnt will be tested so it is not in your benefit to copy and paste in order to acheive these goals. **To pass the technical interview you will need a solid understanding of the concepts learnt throughout the lessons.**
