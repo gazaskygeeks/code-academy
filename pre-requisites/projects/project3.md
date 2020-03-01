@@ -1,39 +1,38 @@
 ### Introduction
 
-You made it! By now you should have a _really_ firm grasp on the fundamentals of JavaScript. Of course there's plenty more to learn, but you should be able to create quite a bit at this point. Our final project is going to combine everything you've learned so far: you're going to make an on-screen library using JavaScript, HTML, and CSS.
+In this project you'll be creating a pretty neat toy for your portfolio to flex your DOM manipulation skills. You're going to build a browser [bookshelf](https://www.google.com/search?q=bookcase&tbm=isch).
 
-As usual with these things, there are elements of this project that are not going to be trivially easy for you, but if you've been following the course so far, you definitely have everything you need to finish it. We're going to walk you through the various steps you can take, but again, how you actually implement them is up to you!
+This project should _not_ be easy for you. You'll probably have to Google frequently to get the right JavaScript methods and CSS to use - in fact, that's the point! You _can_ build this using the tools that you have already learned and there are plenty of resources on the net for learning stuff that we haven't covered yet if you decide you need it. We'll walk you through the basic steps, but it will be up to you to actually implement them.
 
-### Introduction
-
-Let's extend the 'Book' example from the previous lesson and turn it into a small Library app.
+If you get totally stuck drop by the discord server. someone will be there to point you in the right direction.
 
 ### Assignment
 
 <div class="lesson-content__panel" markdown="1">
 
-1. If you haven't already, set up your project with skeleton HTML/CSS and JS files.
-2. All of your book objects are going to be stored in a simple array, so add a function to the script (not the constructor) that can take user's input and store the new book objects into an array. Your code should look something like this:
+1. Start off by making the files on your computer and opening them in your browser.
+2. Create a webpage with a bookshelf :D Don't worry! This just means create a grid of 3 or 4 rows (these are the shelves of your bookshelf).
+   1. Create the book divs using JavaScript... don't try making them by hand with copy and pasting in your html file!
+   2. Best to put your "shelf" divs inside another "container" div \(that one can go directly in your html\)
+   3. Each shelf should appear one on top of the other. Apart from that, you need to add styling. Do this by giving the shelves a class and add class styles in a seperate CSS stylesheet:
+      1. They should each be about as wide as the screen
+      2. The height should be about 20-30% of the screen height.
+      3. Give each one some borders so you can see!
+   4. "OMG, Why isn't my grid being created???"
+      1. Open your browser's developer tools
+      2. Check if there are any errors in the JavaScript console
+      3. Check your "elements" pane to see if the elements have actually shown up but are somehow hidden.
+      4. Go willy-nilly and add `console.log` statements in your JavaScript to see if it's actually being loaded.
+3. Now you need to add the books! First we need the data - each book should have a title, an author, and an image:
+   - Go and get this data for as many books as you can (maybe don't get more than 10 books to start with though)
+   - In your JavaScript make an object for each book with the keys of `title`,`author` and `image`, with the corresponding values.
+   - All of these book Objects should then be stored in an array
+4. Now to put them on the shelves!
+   - You should loop through your books array and for each book you should create a new div, which should show the image for the book, along with the title and the author (these could be inside inner divs of the book div).
+   - Once you have this book div, you should append it to one of the shelfs (how will you decide which one...)- Don't forget to make new styles for the book div's
+5. Add a "NEW BOOK" button that brings up a form allowing users to input the details for the new book: author, title, link to an image.
+   - When they submit this form, it should add the book to your array and also render it onto the page.
+6. Follow [these steps](https://help.github.com/en/articles/create-a-repo) to create a repo on GitHub.
+7. On GitHub, make new empty files and copy and paste your code into them, making sure you save them by clicking the `commit changes` button.
 
-   ```javascript
-   let myLibrary = [];
-
-   function Book() {
-     // the constructor...
-   }
-
-   function addBookToLibrary() {
-     // do stuff here
-   }
-   ```
-
-3. Hook the array up to your HTML with a `render()` function that loops through the array and displays each book on the page. You can display them in some sort of table, or each on their own "card". It might help for now to manually add a few books to your array so you can see the display.
-4. Add a "NEW BOOK" button that brings up a form allowing users to input the details for the new book: author, title, number of pages, whether it's been read and anything else you might want.
-5. Add a button on each book's display to remove the book from the library.
-   1. You will need to associate your DOM elements with the actual book objects in some way. One easy solution is giving them a data-attribute that corresponds to the index of the library array.
-6. Add a button on each book's display to change its `read` status.
-   1. To facilitate this you will want to create the function that toggles a book's `read` status on your `Book` prototype instance.
-7. Optional -we haven't learned any techniques for actually storing our data anywhere, so when the user refreshes the page all of their books will disappear! If you want, you are capable of adding some persistence to this library app using one of the following techniques:
-   1. localStorage ([docs here](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)) allows you to save data on the user's computer. The downside here is that the data is ONLY accessible on the computer that it was created on. Even so, it's pretty handy! Set up a function that saves the whole library array to localStorage every time a new book is created, and another function that looks for that array in localStorage when your app is first loaded. (make sure your app doesn't crash if the array isn't there!)
-   2. Firebase ([check it out!](https://firebase.google.com/docs/?authuser=0)) is an online database that can be set up relatively easily, allowing you to save your data to a server in the cloud! Teaching you how to use it is beyond the scope of this tutorial, but it is almost definitely within your skill set. If you're interested, check out [this video](https://www.youtube.com/watch?v=noB98K6A0TY) to see what it's all about.
-      </div>
+</div>
