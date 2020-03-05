@@ -23,6 +23,7 @@ Here are some use cases (abilities your project needs to have):
    1. Do not worry about wiring up the JS just yet.
    2. There should also be a display for the calculator, go ahead and fill it with some dummy numbers so you can get it looking right.
    3. Add a "clear" button.
+   4. Make it look nice using an external CSS sheet!
 4. Create the functions that populate the display when you click the number buttons... you should be storing the 'display value' in a variable somewhere for use in the next step.
 5. Make the calculator work! You'll need to store the first number that is input into the calculator when a user presses an operator, and also save which operation has been chosen and then `operate()` on them when the user presses the "=" key.
    1. You should already have the code that can populate the display, so once `operate()` has been called, update the display with the 'solution' to the operation.
@@ -33,5 +34,15 @@ Here are some use cases (abilities your project needs to have):
    3. Pressing `=` before entering all of the numbers or an operator could cause problems!
    4. Pressing "clear" should wipe out any existing data.. make sure the user is really starting fresh after pressing "clear"
    5. Display a snarky error message if the user tries to divide by 0... don't let it crash your calculator!
-7. Make it look nice!
+7. Now you should have a working calculator, well done! Now we're going to add a currency converter:
+   1. Create 4 new buttons that will convert the number the user has typed into the calculator into different currencies:
+      - Shekels into US Dollars
+      - Dollars into Shekels
+      - Shekels into Euros
+      - Euros into Shekels
+   2. Create the functions in JavaScript to run these calculations - get the correct conversion rates from google
+   3. Wire all the JS up to the HTML!
+8. If you have managed to do all that, well done! Now to get them online - follow [these steps](https://help.github.com/en/articles/create-a-repo) to create a repo on GitHub.
+9. On GitHub, make new empty files and copy and paste your code into them, making sure you save them by clicking the `commit changes` button.
+
    </div>
