@@ -26,7 +26,7 @@ If you get totally stuck drop by the discord server. someone will be there to po
    - Make sure you give the button a class, and use your style sheet to make it look good :eyes:
 4. We will now add the actual game logic. For this we need a few things:
    - We need a function which will tell us who wins. This should take 2 arguments - the player choice and the computer choice. It should return the winner as a string, either "computer" or "player"
-   - We need a function which will give us the computers choice, randomly. This function should take an array of choices, and then randomly return a string of one of them. Google how to randomly select from an array in javascript!
+   - We need a function which will give us the computer's choice, randomly. This function should take an array of choices, and then randomly return a string of one of them. Google how to randomly select from an array in javascript!
    - Once you have created those 2 functions we have all the pieces we need! You now need to some _event listeners_ to the choice buttons so the following will happen when they are clicked:
      1. Add the the players choice into the the players choice container you made in step 2 (using dom manipulation).
      2. Use your "computer choice" function to get a random choice from the computer. Then update the computers choice container with this value.
