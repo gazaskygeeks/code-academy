@@ -23,7 +23,7 @@ If you get totally stuck drop by the discord server. someone will be there to po
 3. Now let's add the option buttons for the players to choose, using JavaScript.
    - create an array in JavaScript of strings, of each option
    - Loop over that array and for each element, create an HTML button with the string text on it, and then add it to the container div you made in step 2.
-   - Make sure you give the button a class, and use you style sheet to make it look good :eyes:
+   - Make sure you give the button a class, and use your style sheet to make it look good :eyes:
 4. We will now add the actual game logic. For this we need a few things:
    - We need a function which will tell us who wins. This should take 2 arguments - the player choice and the computer choice. It should return the winner as a string, either "computer" or "player"
    - We need a function which will give us the computers choice, randomly. This function should take an array of choices, and then randomly return a string of one of them. Google how to randomly select from an array in javascript!
