@@ -35,15 +35,13 @@ If you get totally stuck drop by the discord server. someone will be there to po
 4. Well done! You've done all the basics now to add the final touches:
    - Make it so that when a user clicks on the "like" button, that tweet changes to a different colour
    - Make it so that when a user clicks on the "retweet" button, that tweet gets repeated at the top of the newsfeed :twins:
-5. So far, we've just been adding our tweets directly to the HTML. This is great, however, when you refresh the page all of the tweets will disappear :crying_face:. We are going to use Javascript to fix this!
+5. So far, we've just been adding our tweets directly to the HTML. This is great, however, in general it is a good idea to store the data on our page in our JavaScript. This is the idea of seperating out the "content" layer (i.e. the data of the tweets) from the "view" layer, i.e. how they look on the page. Lets see how we might do this.
    - Create an empty array in your javascript file, called something like 'tweets'.
    - When the user submits a new tweet, as well as adding it to the HTML, we want to add it here to the array.
    - We will do this by creating an object for each tweet. The object should have 2 fields - one for the author, and one for the tweet.
    - Add some code to your `onClick` function so that it will create a tweet object, and add that to the tweet array.
-   - Great we are now storing the tweets in JavaScript. Try using `console.log` in the onclick function to make sure this is working.
-   - The next thing we are going to do is store this tweet array into the local storage. Google what that means! Once you know, add _another_ line to the `onClick` function to save the tweet array into local storage each time.
-   - _Finally_ we need to use this! Just below where you defined your empty tweet array, you should add an if statement which will look at the local storage to see if the tweet array has been saved there - if it has, you need to set your tweet array to equal the one in local storage
-   - You then also need to _loop_ over the array and _for each_ tweet in the array you should create and add a tweet to the "newsfeed". Luckily for you, you hopefully already made a function to do this! Use your `createTweet` function to create the divs, then append them to the newsfeed :smart:
+   - Great we are now storing the tweets in JavaScript. Try using `console.log` in the onclick function to make sure this is working, and that your tweets are there.
+   - If we wanted to now, we could now easily send and store our tweet data :tada: (if you're feeling really smart, try investigating how local storage works :eyes:)
 6. Well done! Now to get them online - follow [these steps](https://help.github.com/en/articles/create-a-repo) to create a repo on GitHub.
 7. On GitHub, make new empty files and copy and paste your code into them, making sure you save them by clicking the `commit changes` button.
 
