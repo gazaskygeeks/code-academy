@@ -19,7 +19,7 @@ If you get totally stuck drop by the discord server. someone will be there to po
    - A section titled "Computer's Choice" which will show the computers choice.
    - A section titled "Result" which will show who is the winner.
    - A button titled "Play again"
-   - You should could these into you html file, and use an external CSS stylesheet to make everything look pretty :dancer:
+   - You should put these into you html file, and use an external CSS stylesheet to make everything look pretty :dancer:
 3. Now let's add the option buttons for the players to choose, using JavaScript.
    - create an array in JavaScript of strings, of each option
    - Loop over that array and for each element, create an HTML button with the string text on it, and then add it to the container div you made in step 2.
@@ -27,7 +27,7 @@ If you get totally stuck drop by the discord server. someone will be there to po
 4. We will now add the actual game logic. For this we need a few things:
    - We need a function which will tell us who wins. This should take 2 arguments - the player choice and the computer choice. It should return the winner as a string, either "computer" or "player"
    - We need a function which will give us the computer's choice, randomly. This function should take an array of choices, and then randomly return a string of one of them. Google how to randomly select from an array in javascript!
-   - Once you have created those 2 functions we have all the pieces we need! You now need to some _event listeners_ to the choice buttons so the following will happen when they are clicked:
+   - Once you have created those 2 functions we have all the pieces we need! You now need add to some _event listeners_ to the choice buttons so the following will happen when they are clicked:
      1. Add the the players choice into the the players choice container you made in step 2 (using dom manipulation).
      2. Use your "computer choice" function to get a random choice from the computer. Then update the computer's choice container with this value.
      3. Using the player choice and computer choice as values in your "decide the winner" function, to find out who the winner is. Using dom manipulation, add this result as text to your "result" section - eg: "You lose, sucker!"
