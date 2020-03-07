@@ -4,7 +4,7 @@ In this project you'll be creating a pretty neat toy for your portfolio to flex 
 
 This project should _not_ be easy for you. You'll probably have to Google frequently to get the right JavaScript methods and CSS to use - in fact, that's the point! You _can_ build this using the tools that you have already learned and there are plenty of resources on the net for learning stuff that we haven't covered yet if you decide you need it. We'll walk you through the basic steps, but it will be up to you to actually implement them.
 
-If you get totally stuck drop by the discord server. someone will be there to point you in the right direction.
+If you get totally stuck drop by the [discord server](https://discord.gg/R6ypSzq, someone there will be able to point you in the right direction.
 
 ### Assignment
 
@@ -26,7 +26,23 @@ If you get totally stuck drop by the discord server. someone will be there to po
 3. Now you need to add the books! First we need the data - each book should have a title, an author, and an image:
    - Go and get this data for as many books as you can (maybe don't get more than 10 books to start with though)
    - In your JavaScript make an object for each book with the keys of `title`,`author` and `image`, with the corresponding values.
-   - All of these book Objects should then be stored in an array
+   - All of these book Objects should then be stored in an array, like so:
+
+```js
+let books = [
+   {
+      title: "book1",
+      author: "John Doe",
+      image: "https://img.com/bookimg.jpeg"
+   },
+   {
+     title: "book2",
+     ...........
+   },
+ ..........
+]
+```
+
 4. Now to put them on the shelves!
    - You should loop through your books array and for each book you should create a new div, which should show the image for the book, along with the title and the author (these could be inside inner divs of the book div).
    - Once you have this book div, you should append it to one of the shelfs (how will you decide which one...)- Don't forget to make new styles for the book div's
