@@ -35,7 +35,7 @@ If you get totally stuck drop by the discord server. someone will be there to po
 5. Nice, we have all the basics! Now to add some extras, see if you can do any of these things:
    - Pictures! add some logic so that instead of just showing text, you show images.For example, when someone clicks the rock button, it will show a rock.
    - CSS Animations! maybe you can reveal the winner in a fun animated way :eyes:
-   - Can you add some inputs to customise the game... Try to add three inputs, so that the player could to replace rock, paper and scissor with 3 other choices - for example "Water, Fire, Wood" water beats fire, fire beats wood, wood beats water. You could add more inputs so the player can add their own images.
+   - Can you add some inputs to customise the game... Try to add three inputs, so that the player could replace rock, paper and scissor with 3 other choices - for example "Water, Fire, Wood" water beats fire, fire beats wood, wood beats water. You could add more inputs so the player can add their own images.
    - Anything else you can think of!
 6. If you have managed to do all that, well done! Now to get them online - follow [these steps](https://help.github.com/en/articles/create-a-repo) to create a repo on GitHub.
 7. On GitHub, make new empty files and copy and paste your code into them, making sure you save them by clicking the `commit changes` button.
