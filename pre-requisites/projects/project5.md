@@ -20,7 +20,7 @@ If you get totally stuck drop by the discord server. someone will be there to po
    - A section titled "Result" which will show who is the winner.
    - A button titled "Play again"
    - You should could these into you html file, and use an external CSS stylesheet to make everything look pretty :dancer:
-3. Now lets add the option buttons for the players to choose, using JavaScript.
+3. Now let's add the option buttons for the players to choose, using JavaScript.
    - create an array in JavaScript of strings, of each option
    - Loop over that array and for each element, create an HTML button with the string text on it, and then add it to the container div you made in step 2.
    - Make sure you give the button a class, and use you style sheet to make it look good :eyes:
