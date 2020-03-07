@@ -29,7 +29,7 @@ If you get totally stuck drop by the discord server. someone will be there to po
    - We need a function which will give us the computer's choice, randomly. This function should take an array of choices, and then randomly return a string of one of them. Google how to randomly select from an array in javascript!
    - Once you have created those 2 functions we have all the pieces we need! You now need to some _event listeners_ to the choice buttons so the following will happen when they are clicked:
      1. Add the the players choice into the the players choice container you made in step 2 (using dom manipulation).
-     2. Use your "computer choice" function to get a random choice from the computer. Then update the computers choice container with this value.
+     2. Use your "computer choice" function to get a random choice from the computer. Then update the computer's choice container with this value.
      3. Using the player choice and computer choice as values in your "decide the winner" function, to find out who the winner is. Using dom manipulation, add this result as text to your "result" section - eg: "You lose, sucker!"
      4. Add a listener to your reset button to empty the divs in steps 1-3 so the player can play again!
 5. Nice, we have all the basics! Now to add some extras, see if you can do any of these things:
