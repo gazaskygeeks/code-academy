@@ -14,7 +14,7 @@ Join the GSG classroom on TypingClub, using **the same email address you used in
 
 **[Click here to join the classroom.](https://gsg-code-academy.typingclub.com/signup/GMUR84A)**
 
-**if the link above is not working then follow these steps below:**
+**if the link above is not working then follow these steps:**
 
 1- [First click this link to join the class](https://gsg-code-academy.typingclub.com/signup)
 
