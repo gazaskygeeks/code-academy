@@ -14,6 +14,16 @@ Join the GSG classroom on TypingClub, using **the same email address you used in
 
 **[Click here to join the classroom.](https://gsg-code-academy.typingclub.com/signup/GMUR84A)**
 
+**if the link above is not working then follow these steps below:**
+
+1- [First click this link to join the class](https://gsg-code-academy.typingclub.com/signup)
+
+2- Click `Enter a Class Code`
+
+![img](./pre-requisites/typing.png)
+
+3- Copy and paste this code `GMUR84A` then click Sign up after that you can fill in your information
+
 By the application deadline, you must **complete at least the first 50 lessons in Typing Club**.
 
 Each lesson should take less than 10 minutes to complete. The best way to improve your typing is to do a small amount, practising every day, rather than doing all of the lessons at once.
