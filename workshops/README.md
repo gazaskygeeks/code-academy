@@ -9,4 +9,4 @@ This folder holds workshops developed for the GSG Code Academy.
 
 ## Workshops
 
-1. [Put the first workshop link here.]()
+1. [Hooks Part 1](./hooks-ws)
