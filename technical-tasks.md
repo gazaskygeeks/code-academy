@@ -52,14 +52,17 @@ In the in-person technical interview you will be asked questions to check your k
 1. [DOM Manipulation](pre-requisites/09-dom-manipulation.md)
 1. [Clean Code](pre-requisites/10-clean-code.md)
 1. [Javascript Project](pre-requisites/11-project-js.md)
-1. After completing the lessons, you should solidify your learning by [reaching 5kyu in JavaScript on CodeWars](https://www.codewars.com), and making sure you continue your FreeCodeCamp learning until you get 200 points (after doing the sections mentioned lessons 1-11).
+1. After completing both the HTML and the JS project, you must fill out this form: [**PROJECT FORM**](https://airtable.com/shrDsyTLInSnd5t6t)
+1. After completing the lessons, you must solidify your learning by [reaching 5kyu in JavaScript on CodeWars](https://www.codewars.com), and making sure you continue your FreeCodeCamp learning until you get 200 points (after doing the sections mentioned lessons 1-11).
 
 ### Summary of most important tasks:
 
 We will make decisions on who to invite for the technical interview, based on satisfactory completion of the tasks and projects from steps 0-12. By completing all of the technical tasks, you will have achieved:
 
-- [x] [HTML & CSS Project](pre-requisites/04-project.md)
-- [x] [A Javascript project, which will have been assigned to you over email](pre-requisites/projects/)
+- [x] 2 Projects:
+  - [x] [HTML & CSS Project](pre-requisites/04-project.md)
+  - [x] [A Javascript project, which will have been assigned to you over email](pre-requisites/projects/)
+  - [x] When you have finished both projects, you MUST fill out [this form](https://airtable.com/shrDsyTLInSnd5t6t) to submit them. If you don't fill out this form your application will be unsuccessful.
 - [x] 200 points on FreeCodeCamp (the exact topics you need to cover are stated within lessons 1-12)
 - HTML and CSS
   - [Basic HTML and HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/)
