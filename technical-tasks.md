@@ -4,7 +4,7 @@ In order to be considered for the in person technical interview, **you must comp
 
 The coding section is by far the longest section and will require the most time to complete.
 
-**It will take time to complete these lessons.** We suggest having a consistent schedule over a few weeks to complete these lessons. If you ever get stuck or feel overwhelmed, ask for help on the [Discord Server](https://discord.gg/TjzYPC6FfC), or drop by one of our campuses in person. We are very happy to help.
+**It will take time to complete these lessons.** We suggest having a consistent schedule over a few weeks to complete these lessons. If you ever get stuck or feel overwhelmed, ask for help on the [Discord Server](https://discord.gg/7nPQQUcz3t), or drop by one of our campuses in person. We are very happy to help.
 
 ## Typing:
 
