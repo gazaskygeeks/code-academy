@@ -6,7 +6,7 @@ The learning section is the longest and will require the most time to complete.
 
 ## Summary of the tasks:
 
-**It will take time to complete these lessons.** We suggest having a consistent schedule over a few weeks to complete these lessons. If you ever get stuck or feel overwhelmed, ask for help on the [Discord Server](https://discord.gg/7QqGtqC9Gy), or drop by one of our campuses in person. We are happy to help, and we are highly recommending you to watch **Elzero Web School** [HTML](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji), [CSS](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe) and [JavaScript](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) courses.
+**It will take time to complete these lessons.** We suggest having a consistent schedule over a few weeks to complete these lessons. If you ever get stuck or feel overwhelmed, ask for help on the [Discord Server](https://discord.gg/7QqGtqC9Gy), or contact us at codeacademy@gazaskygeeks.com. We are happy to help, and we are highly recommending you to watch **Elzero Web School** [HTML](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji), [CSS](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe) and [JavaScript](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) courses.
 
 ## Coding Tasks:
 
