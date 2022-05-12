@@ -2,9 +2,9 @@
 
 ### Introduction
 
-In this project you'll be creating a clock to display the local time on your screen, You can add an alarm be selecting the time you want to play the alarm, specifying hours and minutes, and `AM` OR `PM`
+In this project you'll be creating a clock to display the local time on your screen, You can add an alarm by selecting the time you want to play the alarm, specifying hours and minutes, and time period `AM` OR `PM`
 
-*AS a stretch goal*, It's good to run audio when time match  on of the alarms user saved.
+*AS a stretch goal*, It's good to run audio when current time match on of the alarms user saved.
 
 This project should _not_ be easy for you. You'll probably have to Google frequently to get the right JavaScript methods and `html` elements to use - in fact, that's the point! You _can_ build this using the tools that you have already learned and there are plenty of resources on the net for learning stuff that we haven't covered yet if you decide you need it. We'll walk you through the basic steps, but it will be up to you to actually implement them.
 
