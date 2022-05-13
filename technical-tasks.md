@@ -32,7 +32,7 @@ In the technical interview, you will be asked questions to check your knowledge 
 9. [DOM Manipulation](pre-requisites/09-dom-manipulation.md)
 10. [Clean Code](pre-requisites/10-clean-code.md)
 11. [JavaScript Project](pre-requisites/11-project-js.md)
-12. After completing both the HTML and the JS project, you must fill out this form: [**PROJECT FORM**](https://airtable.com/**)
+12. After completing both the HTML and the JS project, you must fill out this form: [**PROJECT FORM**](https://airtable.com/shr1v0zvij4xJKrP7)
 13. After completing the lessons, you must solidify your learning by [reaching 5kyu in JavaScript on CodeWars](https://www.codewars.com), and making sure you continue your FreeCodeCamp learning until you get minimum of 270 points (after doing the mentioned lessons 1-11).
 
 ### Summary of most important tasks:
@@ -42,7 +42,7 @@ We will make decisions on whom to invite for the technical interview, based on s
 - [x] 2 Projects:
   - [x] [HTML & CSS Project](pre-requisites/04-project.md)
   - [x] [A Javascript project, which will have been assigned to you over email](pre-requisites/projects/)
-  - [x] When you have finished both projects, you MUST fill out [this form](https://airtable.com/**) to submit them. If you don't fill out this form, your application will be unsuccessful.
+  - [x] When you have finished both projects, you MUST fill out [this form](https://airtable.com/shr1v0zvij4xJKrP7) to submit them. If you don't fill out this form, your application will be unsuccessful.
 - [x] Minimum of 270 points on FreeCodeCamp (the exact topics you need to cover are stated within lessons 1-11)
 - HTML and CSS
   - [Basic HTML and HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/)
