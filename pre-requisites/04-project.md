@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Your website is your application. You need to tell us about yourself and why you are applying for this program. Your website also needs to demonstrate your capabilities in HTML, CSS, and JavaScript.
+Your website is your application. You need to tell us about yourself and why you are applying for this program. Your website also needs to demonstrate your capabilities in HTML and CSS.
 
 Feel free to get creative with the implementation—as long as you meet all the criteria below you can have fun with it.
 
@@ -22,21 +22,51 @@ Your website must meet the following criteria:
 - [ ] Present your assigned JavaScript project and any other previous works.
  
 ### Technical criteria 
-To demonstrate your learning your site must have at least one example of each of these:
 
-- [ ]  Semantic HTML5 elements
-- [ ]  CSS grid or flexbox layout (or both)
-- [ ]  DOM event listeners for user interaction (e.g. click, keydown)
-- [ ]  DOM updates in response to user interaction (e.g. showing/hiding an element, changing text or styles)
+1. Writing semantic HTML5 elements
+2. Using flexbox layout or CSS grid (or both)
+
+
+#### Try These Before Starting
+These skills will be helpful for you when you start building. Either try them yourself or at least make sure you know how to do it:
+
+
+1. Two ways to move a div around on the page
+2. Stick a div onto the bottom or top of the page
+3. Identify the background color of an existing webpage
+4. Grab the URL for an image from an existing webpage
+5. Center an element horizontally
+6. Identify three ways you can include your CSS styles in a page
+7. Understand how to use classes and ids to target CSS at specific elements on the page
+8. Build a very basic form (even if it doesn't "go" anywhere)
  
-### Examples 
-Here are some examples of optional features you could add to your site to meet all the above technical requirements. These are just examples—we encourage you to be creative and make something you find fun and interesting.
+### Preparing for Production
+Once you have made your site, follow [these steps](https://help.github.com/en/articles/create-a-repo) to create a repo on GitHub.
+On GitHub, upload your files by clicking the `upload files` button and selecting the html and css files you have been editing.
 
-* Image carousel
-    A slideshow of images with previous/next arrow buttons that show/hide the next image in a list.
-* Tabs
-    A set of tabs to show/hide different sections of the page when clicked.
-* Theme toggle
-    A button that lets you switch between different style themes (e.g. light/dark).
-* CSS Animations
-    CSS allows animation of HTML elements without using JavaScript or Flash!
+### Viewing your project on the web - optional!
+
+If you want to show your work (the project) to others, you will need to publish your site so that others can access it from the web, rather than just on your local machine. The good news is that if you have your project on GitHub (as described above) doing this is incredibly simple.
+
+Github allows you to publish web projects directly from a GitHub repository. Doing this will allow you to access your project from `your-gh-username.github.io/your-github-repo-name`
+
+There are a couple of ways to go about doing this, but the simplest is this:
+
+- make sure that the main html file of your project is called `index.html`. If it is not, you will need to rename it.
+- go to your GitHub repo on the web and click the **Settings** button
+- scroll down until you find the **GitHub Pages** section
+- change the **Source** from _none_ to _master branch_ and click Save.
+- it may take a few minutes (the GitHub website says up to 10) but your project should be accessible over the web from `your-gh-username.github.io/your-github-repo-name` (substituting your own details in the link)
+
+
+### Additional Resources
+
+This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
+
+If you still feel shaky on your understanding of HTML and CSS, that's okay! You don't need to be an expert by any means yet. These resources should help if you want to shore up your understanding of things:
+
+- One of the best Arabic courses for HTML on the internet [Learn HTML In Arabic 2021](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji).
+- One of the best Arabic courses for CSS on the internet [Learn CSS In Arabic 2021](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe).
+- If you want to see the art of CSS, check out the [CSS Zen Garden](http://www.csszengarden.com/), which collects submissions that use identical HTML and modify only the CSS but turn out wildly different (and beautiful).
+- Read through [Shay Howe's HTML&CSS Tutorial](http://learn.shayhowe.com/html-css/terminology-syntax-intro). Lesson 1 gives a solid overview and you can do the whole thing for a more in-depth understanding.
+- Learn more about GitHub using [this tutorial](https://try.github.io) or read more in [this article](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1).
