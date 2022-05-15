@@ -2,7 +2,10 @@
 
 ### Introduction
 
-In this project, you'll be creating a pretty neat toy for your portfolio to flex your DOM manipulation skills. You're going to build a customizable name tag generator. As a user you will be able to input any name, then the computer will generate a tag for that name(A card contains a hello message with the input name).
+In this project, you'll be creating a pretty neat toy for your portfolio to flex your DOM manipulation skills. You're going to build a customizable name tag generator. As a user you will be able to input any name, then the computer will generate a tag for that name(A card contains the input name).
+The image shows an example image for the generated tag, feel free to style it in your own way.
+ 
+![](https://i.imgur.com/6arVye4.png)
 
 This project should _not_ be easy for you. You'll probably have to Google frequently to get the right JavaScript methods and CSS to use - in fact, that's the point! You _can_ build this using the tools that you have already learned and there are plenty of resources on the net for learning stuff that we haven't covered yet if you decide you need it. We'll walk you through the basic steps, but it will be up to you to actually implement them.
 
