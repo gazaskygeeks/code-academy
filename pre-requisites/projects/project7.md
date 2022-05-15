@@ -1,4 +1,4 @@
-## NAME TAGS GENERATOR :fist: :v: :hand:
+## NAME TAGS GENERATOR 📛
 
 ### Introduction
 
