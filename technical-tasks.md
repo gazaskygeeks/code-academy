@@ -42,7 +42,7 @@ In the technical interview, you will be asked questions to check your knowledge 
 We will make decisions on whom to invite for the technical interview, based on satisfactory completion of the tasks and projects from steps 0-13. By completing all the technical tasks, you will have achieved:
 
 - [x] 2 Projects:
-  - [x] [HTML & CSS NEW Project](pre-requisites/04-project.md)
+  - [x] 🆕 [HTML & CSS NEW Project](pre-requisites/04-project.md) 🆕
   - [x] [A Javascript project, which will have been assigned to you over email](pre-requisites/projects/)
   - [x] When you have finished both projects, you MUST fill out [this form](https://airtable.com/shr1v0zvij4xJKrP7) to submit them. If you don't fill out this form, your application will be unsuccessful.
 - [x] Minimum of 270 points on FreeCodeCamp (the exact topics you need to cover are stated within lessons 1-11)
