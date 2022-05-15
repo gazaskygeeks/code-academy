@@ -4,7 +4,7 @@ To be considered for the technical test, **you must complete the following codin
 
 The learning section is the longest and will require the most time to complete.
 
-#### Note for previous applicants: We modified this document, so read it carefully.
+### Note for previous applicants: We modified this document, so read it carefully.
 
 ## Summary of the tasks:
 
