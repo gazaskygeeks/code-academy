@@ -4,6 +4,8 @@ To be considered for the technical test, **you must complete the following codin
 
 The learning section is the longest and will require the most time to complete.
 
+#### Note for previous applicants: We modified this document, so read it carefully.
+
 ## Summary of the tasks:
 
 **It will take time to complete these lessons.** We suggest having a consistent schedule over a few weeks to complete these lessons. If you ever get stuck or feel overwhelmed, ask for help on the [Discord Server](https://discord.gg/7QqGtqC9Gy), or contact us at codeacademy@gazaskygeeks.com. We are happy to help, and we are highly recommending you to watch **Elzero Web School** [HTML](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji), [CSS](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe) and [JavaScript](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) courses.
@@ -40,7 +42,7 @@ In the technical interview, you will be asked questions to check your knowledge 
 We will make decisions on whom to invite for the technical interview, based on satisfactory completion of the tasks and projects from steps 0-13. By completing all the technical tasks, you will have achieved:
 
 - [x] 2 Projects:
-  - [x] [HTML & CSS Project](pre-requisites/04-project.md)
+  - [x] [HTML & CSS NEW Project](pre-requisites/04-project.md)
   - [x] [A Javascript project, which will have been assigned to you over email](pre-requisites/projects/)
   - [x] When you have finished both projects, you MUST fill out [this form](https://airtable.com/shr1v0zvij4xJKrP7) to submit them. If you don't fill out this form, your application will be unsuccessful.
 - [x] Minimum of 270 points on FreeCodeCamp (the exact topics you need to cover are stated within lessons 1-11)
