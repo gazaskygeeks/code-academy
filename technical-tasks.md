@@ -1,4 +1,4 @@
-# GSG Code Academy Summer 2022 Application: Technical Tasks
+# GSG Code Academy Winter 2023 Application: Technical Tasks
 
 To be considered for the technical test, **you must complete the following coding tasks**. We will consider the completion and quality of ALL of these tasks when we make decisions on whom to invite for the in-person interview.
 
@@ -8,7 +8,7 @@ The learning section is the longest and will require the most time to complete.
 
 ## Summary of the tasks:
 
-**It will take time to complete these lessons.** We suggest having a consistent schedule over a few weeks to complete these lessons. If you ever get stuck or feel overwhelmed, ask for help on the [Discord Server](https://discord.gg/7QqGtqC9Gy), or contact us at codeacademy@gazaskygeeks.com. We are happy to help, and we are highly recommending you to watch **Elzero Web School** [HTML](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji), [CSS](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe) and [JavaScript](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) courses.
+**It will take time to complete these lessons.** We suggest having a consistent schedule over a few weeks to complete these lessons. If you ever get stuck or feel overwhelmed, ask for help on the [Discord Server](https://discord.gg/XBgJHZDJP8), or contact us at codeacademy@gazaskygeeks.com. We are happy to help, and we are highly recommending you to watch **Elzero Web School** [HTML](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji), [CSS](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe) and [JavaScript](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) courses.
 
 ## Coding Tasks:
 
