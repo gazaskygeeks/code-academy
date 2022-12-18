@@ -44,7 +44,7 @@ We will make decisions on whom to invite for the technical interview, based on s
 - [x] 2 Projects:
   - [x] 🆕 [HTML & CSS NEW Project](pre-requisites/04-project.md) 🆕
   - [x] [A Javascript project, which will have been assigned to you over email](pre-requisites/projects/)
-  - [x] When you have finished both projects, you MUST fill out the form mentioned in your email to submit them. If you don't fill out this form, your application will be unsuccessful.
+  - [x] When you have finished both projects, you MUST fill out the form mentioned in your email to submit them. If you don't fill out the form, your application will be unsuccessful.
 - [x] Minimum of 270 points on FreeCodeCamp (the exact topics you need to cover are stated within lessons 1-11)
 - HTML and CSS
   - [Basic HTML and HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/)
