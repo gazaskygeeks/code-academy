@@ -9,7 +9,7 @@ The image shows an example image for the generated tag, feel free to style it in
 
 This project should _not_ be easy for you. You'll probably have to Google frequently to get the right JavaScript methods and CSS to use - in fact, that's the point! You _can_ build this using the tools that you have already learned and there are plenty of resources on the net for learning stuff that we haven't covered yet if you decide you need it. We'll walk you through the basic steps, but it will be up to you to actually implement them.
 
-If you get totally stuck drop by the [discord server](https://discord.gg/R6ypSzq/7QqGtqC9Gy), someone there will be able to point you in the right direction.
+If you get totally stuck drop by the [discord server](https://discord.gg/R6ypSzq/XBgJHZDJP8), someone there will be able to point you in the right direction.
 
 ### Assignment
 
