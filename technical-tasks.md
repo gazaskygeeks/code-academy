@@ -34,7 +34,7 @@ In the technical interview, you will be asked questions to check your knowledge 
 9. [DOM Manipulation](pre-requisites/09-dom-manipulation.md)
 10. [Clean Code](pre-requisites/10-clean-code.md)
 11. [JavaScript Project](pre-requisites/11-project-js.md)
-12. After completing both the HTML and the JS project, you must fill out this form: [**PROJECT FORM**](https://airtable.com/shr1v0zvij4xJKrP7)
+12. After completing both the HTML and the JS project, you must fill out the form mentioned in your email
 13. After completing the lessons, you must solidify your learning by [reaching 5kyu in JavaScript on CodeWars](https://www.codewars.com), and making sure you continue your FreeCodeCamp learning until you get minimum of 270 points (after doing the mentioned lessons 1-11).
 
 ### Summary of most important tasks:
