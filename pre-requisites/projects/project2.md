@@ -6,7 +6,7 @@ In this project you'll be creating a pretty neat toy for your portfolio to flex 
 
 This project should _not_ be easy for you. You'll probably have to Google frequently to get the right JavaScript methods and CSS to use - in fact, that's the point! You _can_ build this using the tools that you have already learned and there are plenty of resources on the net for learning stuff that we haven't covered yet if you decide you need it. We'll walk you through the basic steps, but it will be up to you to actually implement them.
 
-If you get totally stuck drop by the [discord server](https://discord.gg/R6ypSzq). Someone there will be able to point you in the right direction.
+If you get totally stuck drop by the [discord server](https://discord.gg/XBgJHZDJP8). Someone there will be able to point you in the right direction.
 
 **Important Note:** Before you get started with this calculator project, we need to cover a word of warning. As you look into how to evaluate complex mathematical statements in JavaScript, you will likely come across the tantalizing [`eval()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval) function. However, this function can be very dangerous and [should not ever be used](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval#Do_not_ever_use_eval!)! You'll need to build your own functions to evaluate expressions as part of this calculator project.
 
