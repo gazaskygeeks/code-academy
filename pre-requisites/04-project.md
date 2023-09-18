@@ -2,24 +2,22 @@
 
 ## Introduction
 
-Your website is your application. You need to tell us about yourself and why you are applying for this program. Your website also needs to demonstrate your capabilities in HTML and CSS.
+Well done on learning all the basics of HTML & CSS! Now you need to practice! :tada:
 
-Feel free to get creative with the implementation—as long as you meet all the criteria below you can have fun with it.
+When you signed up to do technical tasks for this application you should have received an email telling you which project has been randomly assigned to you - go and find that email to know what project to do next. The subject line in the email will have been GSG Code Academy Technical Tasks & Projects so search your inbox for that. You should also check your spam/junk filter if you cannot find it.
+
+If you have trouble please email the team who will be able to help codeacademy@gazaskygeeks.com
+
+Feel free to get creative with the implementation—as long as you meet all the criteria and have fun with it!
 
 ## Criteria 
 ### General criteria 
 Your website must meet the following criteria:
 
-- [ ] All code is written by you
+- [ ] All code is written by you.
 - [ ] No external libraries (e.g. no Bootstrap, React, or GitHub Pages themes, but external fonts/icons are fine).
-- [ ] Tell us about yourself and your contact information.
-- [ ] Tells us why you are applying for the program
-- [ ] Your Github repository should be public
+- [ ] Your Github repository should be public.
 - [ ] Hosted on GitHub Pages
-- [ ] Links back to the GitHub repository that contains the code for your site
-- [ ] Links to your public freeCodeCamp profile
-- [ ] Links to your CodeWars profile.
-- [ ] Present your assigned JavaScript project and any other previous works.
  
 ### Technical criteria 
 
@@ -37,7 +35,7 @@ These skills will be helpful for you when you start building. Either try them yo
 4. Grab the URL for an image from an existing webpage
 5. Center an element horizontally
 6. Identify three ways you can include your CSS styles in a page
-7. Understand how to use classes and ids to target CSS at specific elements on the page
+7. Understand how to use classes and IDs to target CSS at specific elements on the page
 8. Build a very basic form (even if it doesn't "go" anywhere)
  
 ### Preparing for Production
