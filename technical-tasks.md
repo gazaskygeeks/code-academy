@@ -1,4 +1,4 @@
-# GSG Code Academy Winter 2023 Application: Technical Tasks
+# GSG Code Academy Fall 2023 Application: Technical Tasks
 
 To be considered for the technical test, **you must complete the following coding tasks**. We will consider the completion and quality of ALL of these tasks when we make decisions on whom to invite for the next selection steps.
 
