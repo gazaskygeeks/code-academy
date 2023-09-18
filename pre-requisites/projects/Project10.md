@@ -1,6 +1,6 @@
 ## Memory Match Application :sunrise: :art:
 
-### Introduction
+### Introduction 
 
 In this project, you'll embark on an exciting journey to create a classic Memory Match Game, also known as Concentration or Pairs. You'll leverage your HTML, CSS, and JavaScript skills to build an engaging and interactive game that challenges players' memory and concentration.
 
